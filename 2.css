@@ -104,6 +104,7 @@ p{
 }
 .footer-columns{
   display: flex;
+Font-size:20px;
 }
 .footer-column{
   flex: 50%;
