@@ -117,3 +117,7 @@ footer{
 .Posts{
 Margin:15px;
 }
+#Spon, #Spon1, #Spon2 {
+font-size:20px;
+display:flex;
+}
