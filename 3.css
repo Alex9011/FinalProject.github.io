@@ -1,0 +1,49 @@
+.footer-columns{
+  display:flex;
+}
+.footer-column{
+  flex:50%;
+  margin:20px;
+}
+header, footer{
+  background-color:#9370DB;
+  padding:1px;
+  padding-left:10px;
+}
+main{
+  padding:10px;
+  background-color:silver;
+}
+.Post{
+  background-color:white;
+  padding:20px;
+  border-radius:10px;
+  margin-botton:20px;
+  display:flex;
+  
+} 
+.Post img{
+  margin:20px;
+}
+.Posts{
+  displey: flex;
+}
+#Logo{
+  font-size:40px;
+  font-family: 'Lobster', cursive;
+}
+#img{
+  width:300px;
+}
+#Anime{
+  background-color:silver;
+  padding:2px;
+  margin:30px;
+  font-family: 'Reggae One', cursive;
+}
+h2{
+color:White;
+}
+p{
+  font-family: 'Akaya Kanadaka', cursive;
+}
