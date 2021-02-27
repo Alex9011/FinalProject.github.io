@@ -20,6 +20,7 @@ main{
   border-radius:10px;
   margin-botton:20px;
   display:flex;
+Margin:15px;
   
 } 
 .Post img{
@@ -27,6 +28,7 @@ main{
 }
 .Posts{
   displey: flex;
+Margin:15px;
 }
 #Logo{
   font-size:40px;
